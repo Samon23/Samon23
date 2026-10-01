@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Samon 👋
 
-<!--
-**Samon23/Samon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in Signal and Information Processing at Universität Paderborn, with over three years of radio network optimization at Huawei behind me. I work in Python, MATLAB and C++ on RF signals, measurement data and machine learning.
 
-Here are some ideas to get you started:
+**Signal processing projects**
+ >>Drone RF Detection
+ · Detecting drones from raw 2.4 GHz captures with Welch spectra and a Random Forest, tested on unseen recordings and under added noise.
+**Data projects**
+ >>German Battery Arbitrage
+ · Backtesting day-ahead energy arbitrage for a grid-scale battery on German market data.
+ >>Electricity Market Dashboard 
+ · Power BI report on 2025 German and European day-ahead prices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 LinkedIn
+https://www.linkedin.com/in/samonaslam
